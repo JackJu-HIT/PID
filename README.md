@@ -18,5 +18,6 @@ sudo apt-get install python2.7-dev
 # 运行，需要你自己进行cmake编译
 在代码的当前路径下打开终端：
 (1)mkdir build
-(2)cmake ..
-(3)make
+(2)cd build
+(3)cmake ..
+(4)make
