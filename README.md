@@ -15,3 +15,8 @@ sudo apt-get install gnuplot
 # python and matplotlib
 sudo apt-get install python-matplotlib
 sudo apt-get install python2.7-dev
+# 运行
+在代码的当前路径下打开终端：
+mkdir build
+cmake ..
+make
